@@ -15,6 +15,10 @@ this line is aldo written in feature2
 this line is also written in feature2 for commit 7
 
 
+
+
 this line is for the feature3
 this line is also for feature3
 this is another line for feature3
+
+this is for feature4
